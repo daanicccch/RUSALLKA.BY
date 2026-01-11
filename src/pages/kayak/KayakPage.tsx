@@ -124,10 +124,10 @@ const features = [
 
 // Rivers
 const rivers = [
-  { name: 'Река Неман', difficulty: 'Лёгкая', duration: '1-2 дня', highlights: ['Старинные замки', 'Живописные леса'], image: 'https://images.unsplash.com/photo-1504701954957-2010ec3bcec1?auto=format&fit=crop&w=800&q=80' },
-  { name: 'Река Вилия', difficulty: 'Средняя', duration: '2-3 дня', highlights: ['Пороги и перекаты', 'Скалистые берега'], image: 'https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&w=800&q=80' },
-  { name: 'Река Западная Двина', difficulty: 'Лёгкая', duration: '2-4 дня', highlights: ['Широкие плёсы', 'Исторические города'], image: 'https://images.unsplash.com/photo-1500514966906-fe245eea9344?auto=format&fit=crop&w=800&q=80' },
-  { name: 'Река Припять', difficulty: 'Лёгкая', duration: '2-5 дней', highlights: ['Уникальная природа', 'Птичьи заповедники'], image: 'https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=800&q=80' },
+  { name: 'Река Неман', difficulty: 'Лёгкая', duration: '1-2 дня', highlights: ['Старинные замки', 'Живописные леса'], image: 'https://photocentra.ru/images/main100/1004132_main.jpg' },
+  { name: 'Река Вилия', difficulty: 'Средняя', duration: '2-3 дня', highlights: ['Пороги и перекаты', 'Скалистые берега'], image: 'https://avatars.mds.yandex.net/i?id=4e97ea1acae297e33731bdbc8e754ab2_l-5234859-images-thumbs&n=13' },
+  { name: 'Река Западная Двина', difficulty: 'Лёгкая', duration: '2-4 дня', highlights: ['Широкие плёсы', 'Исторические города'], image: 'https://bestbelarus.by/upload/dev2fun.imagecompress/webp/iblock/cbb/cbb226b856ab481bf708191d64e69592.webp' },
+  { name: 'Река Припять', difficulty: 'Лёгкая', duration: '2-5 дней', highlights: ['Уникальная природа', 'Птичьи заповедники'], image: 'https://planetabelarus.by/upload/resize_cache/iblock/0dc/1290_860_18e21fe612b4afb807a26ecc22279a1d9/0dca0e96a8b4f2c67c28dbfc7545ef38.jpg' },
 ];
 
 const included = ['Байдарка и вёсла', 'Спасательный жилет', 'Герметичный мешок', 'Инструктаж', 'Сопровождение', 'Палатка (многодневные)', 'Костровое оборудование', 'Трансфер'];
