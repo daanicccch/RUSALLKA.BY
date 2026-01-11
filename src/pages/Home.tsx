@@ -17,7 +17,7 @@ const directions = [
     icon: <FiAnchor className="text-4xl" />,
     title: 'Сплавы на байдарках',
     description: 'Путешествия по живописным рекам Беларуси. Перезагрузка и единение с природой.',
-    image: 'https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=800&q=80',
+    image: 'https://daroo.by/media/cache/original_image/images.daroo.gift/daroo.by/gallery/productpricebanner/5001675/2016/08/24/57bda730d0979.jpg',
     gradient: 'from-cyan-500 to-blue-500',
   },
   {
